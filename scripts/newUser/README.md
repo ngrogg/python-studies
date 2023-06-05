@@ -8,4 +8,5 @@ Script takes the following arguments: <br>
 * **help**, Output scripts help messages
 * **newuser**, Create newuser <br>
   Takes a username as an argument <br>
-  Ex. `./newUser.py newuser jdoe`
+  Ex. `./newUser.py newuser jdoe` <br>
+  Adds user to wheel, adm groups by default.

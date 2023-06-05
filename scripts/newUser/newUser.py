@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+
+# Import statements
 import os
 import pwd
 import sys
